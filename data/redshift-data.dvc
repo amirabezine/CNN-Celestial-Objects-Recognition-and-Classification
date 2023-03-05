@@ -1,0 +1,5 @@
+outs:
+- md5: 0f65db97ef40936cb1f5112e195c1cb0.dir
+  size: 100401917
+  nfiles: 9848
+  path: redshift-data
